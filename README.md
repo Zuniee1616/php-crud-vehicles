@@ -1,7 +1,3 @@
-# php-crud-vehicles
-PHP CRUD procedural dengan file upload, pagination, dan search
-# PHP CRUD - Vehicles 🚗
-
 Tugas Pemrograman Web (CRUD Procedural PHP dengan File Upload, Pagination, dan Search)
 
 ## 👤 Identitas
